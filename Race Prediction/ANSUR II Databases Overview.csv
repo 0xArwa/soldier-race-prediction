@@ -1,0 +1,111 @@
+﻿feature,description,type
+SubjectId,"A unique number for each participant measured in the anthropometric survey, ranging from 10027 to 920103, not inclusive",Demographic data
+SubjectBirthLocation,Subject Birth Location; a U.S. state or foreign country,Demographic data
+SubjectNumericRace,"Subject Numeric Race; a single or multi-digit code indicating a subject’s self-reported race or races (verified through interview). Where 1 = White, 2 = Black, 3 = Hispanic, 4 = Asian, 5 = Native American, 6 = Pacific Islander, 8 = Other",Demographic data
+Ethnicity,"self-reported ethnicity (verified through interview); e.g. “Mexican”, “Vietnamese”",Demographic data
+DODRace,"Department of Defense Race; a single digit indicating a subject’s self-reported preferred single race where selecting multiple races is not an option. This variable is intended to be comparable to the Defense Manpower Data Center demographic data. Where 1 = White, 2 = Black, 3 = Hispanic, 4 = Asian, 5 = Native American, 6 = Pacific Islander, 8 = Other",Demographic data
+Gender,“Male” or “Female”,Demographic data
+Age,Participant’s age in years,Demographic data
+Heightin,"Height in Inches; self-reported, comparable to measured “stature”",Demographic data
+Weightlbs,"Weight in Pounds; self-reported, comparable to measured “weightkg”",Demographic data
+WritingPreference,"Writing Preference; “Right hand”, “Left hand”, or “Either hand (No preference)”",Demographic data
+Date,"Date the participant was measured, ranging from “04-Oct-10” to “05-Apr-12”",Demographic data
+Installation,"U.S. Army installation where the measurement occurred; e.g. “Fort Hood”, “Camp Shelby”",Demographic data
+Component,"“Army National Guard”, “Army Reserve”, or “Regular Army”",Demographic data
+Branch ,"“Combat Arms”, “Combat Support”, or “Combat Service Support”",Demographic data
+PrimaryMOS ,Primary Military Occupational Specialty,Demographic data
+NOTE,measurements are recorded in millimeters with the exception of the variable “weightkg”.,note to self
+abdominalextensiondepthsitting ,"Abdominal Extension Depth, Sitting",Anthropometric Data
+acromialheight,Acromial Height,Anthropometric Data
+acromionradialelength,Acromion-Radiale Length,Anthropometric Data
+anklecircumference,Ankle Circumference,Anthropometric Data
+axillaheight,Axilla Height,Anthropometric Data
+balloffootcircumference,Ball of Foot Circumference,Anthropometric Data
+balloffootlength,Ball of Foot Length,Anthropometric Data
+biacromialbreadth,Biacromial Breadth,Anthropometric Data
+bicepscircumferenceflexed,"Biceps Circumference, Flexed",Anthropometric Data
+bicristalbreadth,Bicristal Breadth,Anthropometric Data
+bideltoidbreadth,Bideltoid Breadth,Anthropometric Data
+bimalleolarbreadth,Bimalleolar Breadth,Anthropometric Data
+bitragionchinarc,Bitragion Chin Arc,Anthropometric Data
+bitragionsubmandibulararc,Bitragion Submandibular Arc,Anthropometric Data
+bizygomaticbreadth,Bizygomatic Breadth,Anthropometric Data
+buttockcircumference,Buttock Circumference,Anthropometric Data
+buttockdepth,Buttock Depth,Anthropometric Data
+buttockheight,Buttock Height,Anthropometric Data
+buttockkneelength,Buttock-Knee Length,Anthropometric Data
+buttockpopliteallength,Buttock-Popliteal Length,Anthropometric Data
+calfcircumference,Calf Circumference,Anthropometric Data
+cervicaleheight,Cervical Height,Anthropometric Data
+chestbreadth,Chest Breadth,Anthropometric Data
+chestcircumference,Chest Circumference,Anthropometric Data
+chestdepth,Chest Depth,Anthropometric Data
+chestheight ,Chest Height,Anthropometric Data
+crotchheight,Crotch Height,Anthropometric Data
+crotchlengthomphalion,Crotch Length (Omphalion),Anthropometric Data
+crotchlengthposterioromphalion,"Crotch Length, Posterior (Omphalion)",Anthropometric Data
+earbreadth,Ear Breadth,Anthropometric Data
+earlength,Ear Length,Anthropometric Data
+earprotrusion,Ear Protrusion,Anthropometric Data
+elbowrestheight,Elbow Rest Height,Anthropometric Data
+eyeheightsitting,"Eye Height, Sitting",Anthropometric Data
+footbreadthhorizontal,"Foot Breadth, Horizontal",Anthropometric Data
+footlength,Foot Length,Anthropometric Data
+forearmcenterofgriplength,Forearm-Center of Grip Length,Anthropometric Data
+forearmcircumferenceflexed,"Forearm Circumference, Flexed",Anthropometric Data
+forearmforearmbreadth,Forearm-Forearm Breadth,Anthropometric Data
+forearmhandlength,Forearm -Hand Length,Anthropometric Data
+functionalleglength,Functional Leg Length,Anthropometric Data
+handbreadth,Hand Breadth,Anthropometric Data
+handcircumference,Hand Circumference,Anthropometric Data
+handlength,Hand Length,Anthropometric Data
+headbreadth,Head Breadth,Anthropometric Data
+headcircumference,Head Circumference,Anthropometric Data
+headlength,Head Length,Anthropometric Data
+heelanklecircumference,Heel-Ankle Circumference,Anthropometric Data
+heelbreadth,Heel Breadth,Anthropometric Data
+hipbreadth,Hip Breadth,Anthropometric Data
+hipbreadthsitting,"Hip Breadth, Sitting",Anthropometric Data
+iliocristaleheight,Iliocristale Height,Anthropometric Data
+interpupillarybreadth,Interpupillary Breadth,Anthropometric Data
+interscyei,Interscye I,Anthropometric Data
+interscyeii,Interscye II,Anthropometric Data
+kneeheightmidpatella,"Knee Height, Midpatella",Anthropometric Data
+kneeheightsitting,"Knee Height, Sitting",Anthropometric Data
+lateralfemoralepicondyleheight,Lateral Femoral Epicondyle Height,Anthropometric Data
+lateralmalleolusheight,Lateral Malleolus Height,Anthropometric Data
+lowerthighcircumference,Lower Thigh Circumference,Anthropometric Data
+mentonsellionlength,Menton-Sellion Length,Anthropometric Data
+neckcircumference,Neck Circumference,Anthropometric Data
+neckcircumferencebase,"Neck Circumference, Base",Anthropometric Data
+overheadfingertipreachsitting,"Overhead Fingertip Reach, Sitting",Anthropometric Data
+palmlength,Palm Length,Anthropometric Data
+poplitealheight,Popliteal Height,Anthropometric Data
+radialestylionlength,Radiale-Stylion Length,Anthropometric Data
+shouldercircumference,Shoulder Circumference,Anthropometric Data
+shoulderelbowlength,Shoulder-Elbow Length,Anthropometric Data
+shoulderlength,Shoulder Length,Anthropometric Data
+sittingheight ,Sitting Height,Anthropometric Data
+sleevelengthspinewrist,Sleeve Length: Spine-Wrist,Anthropometric Data
+sleeveoutseam,Sleeve Outseam,Anthropometric Data
+span,Span,Anthropometric Data
+stature,Stature,Anthropometric Data
+suprasternaleheight,Suprasternale Height,Anthropometric Data
+tenthribheight,Tenth Rib Height,Anthropometric Data
+thighcircumference,Thigh Circumference,Anthropometric Data
+thighclearance,Thigh Clearance,Anthropometric Data
+thumbtipreach,Thumbtip Reach,Anthropometric Data
+tibialheight,Tibiale Height,Anthropometric Data
+tragiontopofhead,Tragion-Top of Head,Anthropometric Data
+trochanterionheight,Trochanterion Height,Anthropometric Data
+verticaltrunkcircumferenceusa,Vertical Trunk Circumference (USA),Anthropometric Data
+waistbacklength,Waist Back Length (Omphalion),Anthropometric Data
+waistbreadth,Waist Breadth,Anthropometric Data
+waistcircumference,Waist Circumference (Omphalion),Anthropometric Data
+waistdepth,Waist Depth,Anthropometric Data
+waistfrontlengthsitting,"Waist Front Length, Sitting",Anthropometric Data
+waistheightomphalion,Waist Height (Omphalion),Anthropometric Data
+weightkg,Weight (in kg*10),Anthropometric Data
+wristcircumference ,Wrist Circumference,Anthropometric Data
+wristheight,Wrist Height,Anthropometric Data
+,,
